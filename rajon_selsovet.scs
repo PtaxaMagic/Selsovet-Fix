@@ -1042,7 +1042,7 @@ begomlskij_selsovet => nrel_main_idtf: [Бегомольский  сельсов
 dribinskij_rajon => nrel_administrative_subdividing: dribinskij_rajon_decomposition;;
 dribinskij_rajon_decomposition -> korovchinskij_selsovet;;
 dribinskij_rajon_decomposition -> miheevskij_selsovet;;
-dribinskij_rajon_decomposition -> rjasnenskij_selsovet_sovet;;
+dribinskij_rajon_decomposition -> rjasnenskij_selsovet;;
 dribinskij_rajon_decomposition -> temnolesskij_selsovet;;
 dribinskij_rajon_decomposition -> chernevskij_selsovet;;
 
@@ -1050,7 +1050,7 @@ dribinskij_rajon_decomposition=> nrel_main_idtf: [Деление на сельс
 
 korovchinskij_selsovet => nrel_main_idtf: [Коровчинский   сельсовет](*<-lang_ru;;*);;
 miheevskij_selsovet => nrel_main_idtf: [Михеевский  сельсовет](*<-lang_ru;;*);;
-rjasnenskij_selsovet_sovet => nrel_main_idtf: [Рясненский  сельсовет](*<-lang_ru;;*);;
+rjasnenskij_selsovet => nrel_main_idtf: [Рясненский  сельсовет](*<-lang_ru;;*);;
 temnolesskij_selsovet => nrel_main_idtf: [Темнолесский  сельсовет](*<-lang_ru;;*);;
 chernevskij_selsovet => nrel_main_idtf: [Черневский  сельсовет](*<-lang_ru;;*);;
 
@@ -2314,8 +2314,10 @@ novogrudskij_rajon_decomposition -> otminovskij_selsovet;;
 novogrudskij_rajon_decomposition -> petrevichskij_selsovet;;
 novogrudskij_rajon_decomposition -> schorsovskij_selsovet;;
 novogrudskij_rajon_decomposition -> jatravskij_selsovet;;
+novogrudskij_rajon_decomposition -> gorodechnenskij_selsovet;;
 
 novogrudskij_rajon_decomposition => nrel_main_idtf: [Деление на сельсоветы Новогрудского района](* <- lang_ru;; *);;
+gorodechnenskij_selsovet => nrel_main_idtf: [Городечненский сельсовет](*<-lang_ru;;*);;
 beninskij_selsovet => nrel_main_idtf: [Бенинский сельсовет](*<-lang_ru;;*);;
 brolnikskij_selsovet => nrel_main_idtf: [Брольникский сельсовет](*<-lang_ru;;*);;
 valevskij_selsovet => nrel_main_idtf: [Валевский сельсовет](*<-lang_ru;;*);;
